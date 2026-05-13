@@ -1,17 +1,58 @@
-# Quartz v4
+# Ndocs
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> 🛡️ **Privacy | 🐧 FOSS | 🏴‍☠️ Freedom**
+>
+> A curated collection of the best tools, software, and privacy guides. Inspired by *FMHY* and *PrivacyGuides*.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+**Nerdocs** is a documentation project aiming to be the definitive resource for privacy-conscious users and tech enthusiasts. We bridge the gap between comprehensive lists (like FMHY) and strict privacy recommendations (like PrivacyGuides).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## 🚀 Features
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+*   **Curated Tools**: We don't list everything. We list the *best*.
+*   **Privacy First**: Every recommendation is vetted for privacy violations.
+*   **FOSS Focused**: Prioritizing Free and Open Source Software.
+*   **Safety Guides**: Learn how to stay safe, scan for viruses, and harden your browser.
+*   **Platform Agnostic**: Guides for Windows, Linux, Android, and Web.
 
-## Sponsors
+## 📚 Categories
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+*   **Windows**: Debloat, activate, and replace proprietary junk.
+*   **Linux]**: Find the perfect distro and essential tools.
+*   **Android**: De-google your phone and unlock its potential.
+*   **Privacy 101**: Authentication, VPNs, OS choices, and Hardening.
+*   **Torrenting**: Safe practices, VPN binding, and trusted sites.
+
+## 🛠️ Tech Stack
+
+This project is built with:
+*   [Astro](https://astro.build) - The web framework.
+*   [Starlight](https://starlight.astro.build) - The documentation theme.
+*   [Tailwind](https://tailwindcss.com) - Styling (via Starlight).
+
+## ⚡ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/devsiddhant/nerdocs.git
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+```
+
+## 🤝 contributing
+
+Got a tool suggestion? Found a broken link?
+*   Open an [Issue](https://codeberg.org/devsiddhant/nerdocs/issues).
+*   Submit a Pull Request.
+
+## 📜 Credits
+
+Maintained with ❤️ by:
+*   `siddhantadhikari@proton.me`
+*   [devsiddhant](https://codeberg.org/devsiddhant) on Codeberg.
+
+---
+*Disclaimer: This project contains educational content. The authors do not condone piracy. Always support developers when possible.*
